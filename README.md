@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Anisuzzaman/Anisuzzaman/blob/main/Wave.gif" height="55px" width="55px">, I'm Anisuzzaman</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="55px" width="55px">, I'm Anisuzzaman</h1>
 <h3 align="center">¯\_(ツ)_/¯
   
 Learner
