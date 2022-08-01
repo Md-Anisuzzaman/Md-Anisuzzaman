@@ -13,13 +13,6 @@
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
-### Connect with me:
-
-
-[<img align="left" alt="anisuzzaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
