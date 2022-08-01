@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" height="55px" width="55px">, I'm Anisuzzaman</h1>
-<h3 align="center">¯\_(ツ)_/¯
-  
-Learner
-</h3>
+
+
 - 🔭 I’m currently working on **Front-End Development**
 
 - 🌱 I’m currently learning **Redux**
@@ -18,7 +16,7 @@ Learner
 ### Connect with me:
 
 
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="anisuzzaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
