@@ -2,9 +2,7 @@
 <h3 align="center">¯\_(ツ)_/¯
   
 Learner
-
-?></h3>
-
+</h3>
 - 🔭 I’m currently working on **Front-End Development**
 
 - 🌱 I’m currently learning **Redux**
