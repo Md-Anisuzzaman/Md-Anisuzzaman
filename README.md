@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anisuzzaman</h1>
+<h1 align="left">Hi, I'm Anisuzzaman</h1>
 
 
 - 🔭 I’m currently working on **Front-End Development**
