@@ -1,6 +1,10 @@
-<h1 align="left">Hi, I'm Anisuzzaman</h1>
+<h1 align="left">Hi, I'm Ethian</h1>
 
-![git](https://user-images.githubusercontent.com/86909240/186985219-dd1ddc8c-43f5-4717-8516-a529928a575a.PNG)
+
+![git](https://user-images.githubusercontent.com/86909240/186987229-58445091-9627-44c1-bc5b-f501ed10d4b7.PNG)
+
+
+
 
 - 🔭 I’m currently working on **Front-End Development**
 
