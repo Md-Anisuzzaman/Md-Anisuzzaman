@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Anisuzzaman</h1>
 
-<div width="500px"><h1>Anisuzzaman Ethian</h1></div>
 
 
 - 🔭 I’m currently working on **Front-End Development**
