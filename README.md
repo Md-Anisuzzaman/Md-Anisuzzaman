@@ -6,10 +6,10 @@
 
 
 
-- 🔭 I’m currently working on **Front-End Development**
-
 - 🌱 I’m currently learning **Redux**
-
+- 
+- 🔭 I’m currently working on **Front-End Development**
+- 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
