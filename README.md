@@ -2,9 +2,8 @@
 
 
 
-
-- 🌱 I’m currently learning **Django**
-- 🔭 I’m currently working on **Front-End Development**
+- 🌱 I’m currently learned **Django**
+- 🔭 I’m currently working on **Full Stack Development**
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
