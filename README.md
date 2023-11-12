@@ -1,8 +1,6 @@
 <h1 align="left">Hi, I'm Ethian</h1>
 
 
-![git](https://user-images.githubusercontent.com/86909240/186987229-58445091-9627-44c1-bc5b-f501ed10d4b7.PNG)
-
 
 
 - 🌱 I’m currently learning **Django**
